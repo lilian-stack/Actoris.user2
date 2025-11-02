@@ -8,6 +8,15 @@
       "avatar": "",
       "isVip": true,
       "createdAt": "2025-11-01T23:35:29.239Z"
+    },
+    {
+      "id": "1762100012876",
+      "username": "fige",
+      "email": "dfsdfsdfsdf@gmail.com",
+      "password": "Adsl_\"_'",
+      "avatar": "",
+      "isVip": false,
+      "createdAt": "2025-11-02T16:13:32.876Z"
     }
   ]
 }
