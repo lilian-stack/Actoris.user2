@@ -6,29 +6,27 @@
       "lastPlayed": "2025-11-01T23:54:07.277Z",
       "playCount": 1,
       "totalTime": 0
+    },
+    {
+      "gameId": "367520",
+      "gameTitle": "Hollow Knight",
+      "lastPlayed": "2025-11-01T23:55:13.038Z",
+      "playCount": 2,
+      "totalTime": 0
     }
   ],
   "stats": {
-    "totalGamesPlayed": 0,
+    "totalGamesPlayed": 1,
     "totalPlayTime": 0,
     "favoriteGenre": "",
-    "gamesPlayedThisWeek": 0
+    "gamesPlayedThisWeek": 1
   },
   "settings": {},
-  "notifications": [
-    {
-      "type": "new_game",
-      "title": "Nouveau jeu disponible !",
-      "message": "Hollow Knight vient d'être ajouté au catalogue",
-      "read": false,
-      "id": "1762041295856",
-      "createdAt": "2025-11-01T23:54:55.856Z"
-    }
-  ],
+  "notifications": [],
   "friends": [],
   "friendRequests": [],
   "favorites": [],
-  "lastSeen": "2025-11-01T23:38:12.048Z",
+  "lastSeen": "2025-11-01T23:57:55.412Z",
   "chatHistory": {},
   "avatar": null,
   "avatarHistory": []
