@@ -22,7 +22,16 @@
     "gamesPlayedThisWeek": 1
   },
   "settings": {},
-  "notifications": [],
+  "notifications": [
+    {
+      "type": "new_game",
+      "title": "Nouveau jeu disponible !",
+      "message": "Hollow Knight vient d'être ajouté au catalogue",
+      "read": false,
+      "id": "1762043312287",
+      "createdAt": "2025-11-02T00:28:32.287Z"
+    }
+  ],
   "friends": [],
   "friendRequests": [],
   "favorites": [],
